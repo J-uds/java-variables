@@ -1,4 +1,4 @@
-public class checkEnergyEfficiency {
+public class EnergyEfficiency {
     public static void main(String[] args) {
         //inicializar variables (del tipo que veas conveniente) para las calificaciones A, B, C, D, E, F y G que correspondan a eficiencia energética e imprime en terminal concatenando cada string con cada variable creada. 
         char energyA = 'A';
